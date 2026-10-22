@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://digitalmechanobiology.ca">Lab website</a> ·
   <a href="https://digitalmechanobiology.ca/#research">Research</a> ·
+  <a href="https://digitalmechanobiology.ca/brand/">Logos &amp; brand kit</a> ·
   <a href="https://digitalmechanobiology.ca/#publications">Publications</a> ·
   <a href="https://github.com/orgs/DigitalMechanobiologyLab/repositories">All repositories</a>
 </p>
