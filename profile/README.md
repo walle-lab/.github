@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://digitalmechanobiology.ca">Lab website</a> ·
-  <a href="https://digitalmechanobiology.ca/#research">Research</a> ·
-  <a href="https://digitalmechanobiology.ca/brand/">Logos &amp; brand kit</a> ·
-  <a href="https://digitalmechanobiology.ca/#publications">Publications</a> ·
+  <a href="https://wallelab.ca">Lab website</a> ·
+  <a href="https://wallelab.ca/#research">Research</a> ·
+  <a href="https://wallelab.ca/brand/">Logos &amp; brand kit</a> ·
+  <a href="https://wallelab.ca/#publications">Publications</a> ·
   <a href="https://github.com/orgs/walle-lab/repositories">All repositories</a>
 </p>
 
